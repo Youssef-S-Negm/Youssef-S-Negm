@@ -28,6 +28,7 @@ I'm a **Full-Stack Developer** passionate about building impactful applications.
 - A chat application.
 - **Technologies**: React Native, Express.js, MongoDB, Socket.IO.
 - **Highlights**: Single chats, group chats, and attachment sharing.
+- [Watch demo](https://youtu.be/a8xmFmWLUTo).
 
 ---
 
