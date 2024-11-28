@@ -15,18 +15,18 @@ I'm a **Full-Stack Developer** passionate about building impactful applications.
 ### 💻 Projects
 #### [Rescue Wheels](https://github.com/graduation-project-rescue-wheels/rescue-wheels-mobile)
 - A cross-platform app that assists vehicle owners in emergencies and simplifies repair appointments.
-- **Technologies**: React Native, Node.js, MongoDB, Socket.IO, Firebase Cloud Messaging.
+- **Technologies**: React Native, Node.js, Express.js, MongoDB, Socket.IO, Firebase Cloud Messaging.
 - **Highlights**: Emergency request handling, location-based responders, repair booking.
 - [Watch demo](https://www.youtube.com/watch?v=N6XIYqbhChk&list=PLvGE-FUtwaz7Bb0IL2F9WeE4FVidtdlIA).
 
 #### [Crowd’s Gossip](https://github.com/cs309project/crowd-sGossip)
 - A social media web app with real-time communication and post interactions.
-- **Technologies**: React.js, Node.js, MongoDB, Socket.IO.
+- **Technologies**: React.js, Node.js, Express.js, MongoDB, Socket.IO.
 - **Highlights**: User profile pages, post creation/editing, and live chat.
 
 #### [Bubbles](https://github.com/bubbles-chat/bubbles)
 - A chat application.
-- **Technologies**: React Native, Express.js, MongoDB, Socket.IO.
+- **Technologies**: React Native, Node.js, Express.js, MongoDB, Socket.IO, Firebase Authentication, Firebase Cloud Messaging.
 - **Highlights**: Single chats, group chats, and attachment sharing.
 - [Watch demo](https://youtu.be/a8xmFmWLUTo).
 
