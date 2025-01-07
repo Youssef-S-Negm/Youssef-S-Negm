@@ -1,13 +1,13 @@
 # Hi there, I'm Youssef Negm 👋  
 
-I'm a **Full-Stack Developer** passionate about building impactful applications. With hands-on experience in **React Native**, **Node.js**, **MongoDB**, **Firebase**, and **Socket.IO**, I specialize in developing scalable, real-time, and secure mobile and web applications.  
+I'm a **Full-Stack Developer** passionate about building impactful applications. With hands-on experience in **React Native**, **Node.js**, **MongoDB**, **Firebase**, and **Socket.IO**, I specialize in developing scalable, real-time, and secure mobile apps.
 
 ---
 
 ### 🚀 Skills and Technologies
 - **Frontend**: React Native, React.js, Expo
-- **Backend**: Node.js, Express.js, Socket.IO
-- **Database**: MongoDB, Firebase
+- **Backend**: Node.js, Express.js, Socket.IO, Java Spring Boot, Hibernate
+- **Database**: MongoDB, Firebase Firestore, SQL (MySQL, Oracle)
 - **Other**: REST APIs, Cloudinary, Firebase Cloud Messaging (FCM), Real-time communication
 
 ---
@@ -33,16 +33,14 @@ I'm a **Full-Stack Developer** passionate about building impactful applications.
 ---
 
 ### 🌟 Hobbies and Interests
-- **Problem Solving**: Solved 140+ problems on Codeforces and LeetCode.
+- **Problem Solving**: Solved 160+ problems on Codeforces and LeetCode.
 - **Swimming**: Former competitive swimmer.
 - **Power Lifting**: Passionate about strength training and fitness.
 
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn**: [https://www.linkedin.com/in/youssef-negm-973a49216/](https://www.linkedin.com/in/youssef-negm-973a49216/)
-- **Email**: [youssef.negm2001@gmail.com](mailto:youssef.negm2001@gmail.com)
-- **GitHub**: [github.com/Youssef-S-Negm](https://github.com/Youssef-S-Negm)
+- [**LinkedIn**](https://www.linkedin.com/in/youssef-negm-973a49216/)
 
 Feel free to explore my repositories and reach out for collaborations! 😄  
 
