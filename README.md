@@ -33,9 +33,9 @@ I'm a **Full-Stack Developer** passionate about building impactful applications.
 ---
 
 ### 🌟 Hobbies and Interests
-- **Problem Solving**: Solved 160+ problems on Codeforces and LeetCode.
+- **Problem Solving**: Solved 180+ problems on Codeforces and LeetCode.
 - **Swimming**: Former competitive swimmer.
-- **Power Lifting**: Passionate about strength training and fitness.
+- **Powerlifting**: Passionate about strength training and fitness.
 
 ---
 
